@@ -74,5 +74,5 @@ A predictive model is used for:
 
 ---
 
-## 📂 Project Structure
+
 
