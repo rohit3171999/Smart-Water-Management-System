@@ -24,7 +24,7 @@ A Smart Water Management System designed using IoT and embedded technology to op
 
 | Component | Function |
 |------------|-----------|
-| NodeMCU (ESP8266) | Main IoT controller for data transmission and automation logic |
+| ESP32 Wroom | Main IoT controller for data transmission and automation logic |
 | Water Pump | Controls water flow automatically |
 | Solenoid Valve | Automatic leakage control |
 | Ultrasonic Sensor | Measures tank water level |
